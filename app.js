@@ -1,7 +1,7 @@
 import * as THREE from "three";
 import { OrbitControls } from "three/addons/controls/OrbitControls.js";
 
-const DATA_URL = "./newsstands.json"; //
+const DATA_URL = "./newsstands.json"; ////
 
 const state = {
   stands: [],
